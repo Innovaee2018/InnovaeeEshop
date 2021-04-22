@@ -33,7 +33,7 @@
         <!--mysql数据库链接驱动版本-->
         <mysql.driver.version>5.1.38</mysql.driver.version>
         <!--mybaits版本-->
-        <mybatis.version>3.4.6</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <!--mybaits反向工程插件版本-->
         <mybatis.generator.version>1.3.6</mybatis.generator.version>
         <!--springboot mybaits启动组件版本-->
