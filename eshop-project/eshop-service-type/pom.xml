@@ -31,7 +31,7 @@
 		<!--阿里巴巴数据源版本-->
 		<druid.version>1.1.5</druid.version>
 		<!--mysql数据库链接驱动版本-->
-		<mysql.driver.version>5.1.38</mysql.driver.version>
+		<mysql.driver.version>8.0.28</mysql.driver.version>
 		<!--mybaits版本-->
 		<mybatis.version>3.4.6</mybatis.version>
 		<!--mybaits反向工程插件版本-->
